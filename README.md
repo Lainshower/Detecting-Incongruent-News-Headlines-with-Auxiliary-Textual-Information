@@ -32,9 +32,9 @@ Please request through ___
 
 ## Files description
 
-* data : codes for data preprocessing, dataset generation, and indexed inputs generation
+* data : codes for data preprocessing, dataset(*Incongruent News Headline Dataset*) generation.
 * src : files with model weights
-* utils : codes for customized callbacks
+* utils : codes for word2index, fasttext embedding, indexed inputs generation
 
 ## Instructions to run the project
 
