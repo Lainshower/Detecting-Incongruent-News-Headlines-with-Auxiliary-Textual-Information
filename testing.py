@@ -13,7 +13,7 @@ def get_test_inputs():
 def load_model(model_name='DINHATI', max_tit=29, max_sub=114, max_body=35, max_sent=12, max_cap=24, emb_mat=None, drop=0.1, hidden1=512, hidden2=256):
 	m = Model(model_name)
 	model,_ = m.get_model(MAX_WORD_TIT=max_tit, MAX_WORD_SUB=max_sub, MAX_WORD_SENT=max_body, MAX_LEN_SENT=max_sent, MAX_WORD_CAP=max_cap, EMB_MAT=emb_mat, DROP=drop, HIDDEN1=hidden1, HIDDEN2=hidden2)
-	model.load_weights("src/checkpoint/bestmodel_checkpoint")
+	model.load_weights("data/src/checkpoint/bestmodel_checkpoint")
 	return model
 
 def get_embedding():

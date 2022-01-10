@@ -161,7 +161,7 @@ class Trainer(object):
 				save = ModelSave(vacc_seq,self.valid_accuracy.result())
 				if save:
 					print("Save Model with best validation accuracy")
-					self.model.save_weights("src/checkpoint/bestmodel_checkpoint")
+					self.model.save_weights("data/src/checkpoint/bestmodel_checkpoint")
 					print("Saving Finish!!!")
 
 				stopEarly = EarlyStopping(tacc_seq, vacc_seq, min_delta=self.min_delta, patience=self.patience)

@@ -1,4 +1,5 @@
 __pycache__/
-src/checkpoint/
+data/dataset/
+data/src/checkpoint/
 *.npy
 *.pickle
