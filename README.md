@@ -34,7 +34,7 @@ Please request through ___
 
 * data : codes for data preprocessing, dataset(*Incongruent News Headline Dataset*) generation.
 * src : files with model weights
-* utils : codes for word2index, fasttext embedding, indexed inputs generation
+* make_inputs : codes for word2index, fasttext embedding, indexed inputs generation
 
 ## Instructions to run the project
 
