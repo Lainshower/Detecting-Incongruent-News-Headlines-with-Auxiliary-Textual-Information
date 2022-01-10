@@ -1,4 +1,4 @@
-## Detecting-Incongruent-Headlines-News-with-Auxiliary-Textual-Information
+# Detecting Incongruent Headlines News with Auxiliary Textual Information
 
 This is the tensorflow implementation of **Detecting Incongruent Headline News with Auxiliary Textual Information**.
 
