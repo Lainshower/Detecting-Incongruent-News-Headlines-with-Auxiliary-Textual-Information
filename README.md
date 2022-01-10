@@ -19,8 +19,11 @@ Auxiliary textual information contains subtitle and image caption.
 ## DATASET
 
 We do not upload word2index.pickle, embedding_matrix.npy, indexed_inputs due to memory issue.
+
 If you want to run testing, we will provide word2index.pickle, embedding_matrix.npy, indexed_inputs for test data.
+
 We are also providing the dataset(*Incongruent News Headline Dataset*) for non-commercial research purposes only.
+
 Please request through ___
 
 ## Files description
