@@ -1,6 +1,6 @@
 ## Detecting-Incongruent-Headlines-News-with-Auxiliary-Textual-Information
 
-This is the implementation of Detecting Incongruent Headline News with Auxiliary Textual Information.
+This is the tensorflow implementation of **Detecting Incongruent Headline News with Auxiliary Textual Information**.
 
 Auxiliary textual information contains subtitle and image caption.
 
@@ -18,17 +18,18 @@ Auxiliary textual information contains subtitle and image caption.
 
 ## DATASET
 
-We only upload indexed test data due to memory issue.
-We are also providing the dataset for non-commercial research purposes only.
+We do not upload word2index.pickle, embedding_matrix.npy, indexed_inputs due to memory issue.
+If you want to run testing, we will provide word2index.pickle, embedding_matrix.npy, indexed_inputs for test data.
+We are also providing the dataset(*Incongruent News Headline Dataset*) for non-commercial research purposes only.
 Please request through ___
 
 ## Files description
 
-* data : codes for data preprocessing, dataset generation, and input generation 
+* data : codes for data preprocessing, dataset generation, and indexed inputs generation
 * src : files with model weights
-* utils : codes for customize callbacks
+* utils : codes for customized callbacks
 
 ## Instructions to run the project
 
-* Training python3 main.py --mode train
-* Testing python3 main.py --mode test
+* **Training** python3 main.py --mode train
+* **Testing** python3 main.py --mode test
