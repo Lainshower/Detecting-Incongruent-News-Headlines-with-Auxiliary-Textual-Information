@@ -4,7 +4,9 @@ This is the tensorflow implementation of **Detecting Incongruent Headline News w
 
 Auxiliary textual information contains subtitle and image caption.
 
-![Our_model](./model.png)
+<p align="center">
+  <img src="./model.png" />
+</p>
 
 ## Pre-requisite
 
