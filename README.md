@@ -22,9 +22,9 @@ Auxiliary textual information contains subtitle and image caption.
 
 ## DATASET
 
-We do not upload word2index.pickle, embedding_matrix.npy, indexed_inputs (test data) due to memory issue.
+We do not upload word2index.pickle, embedding_matrix.npy, indexed_inputs (test data), and model's fine-tunded weight due to memory issue.
 
-If you want to run testing, we will provide word2index.pickle, embedding_matrix.npy, and indexed_inputs for test data.
+If you want to run testing, we will provide word2index.pickle, embedding_matrix.npy, indexed_inputs (test data), and model's fine-tunded weight.
 
 Please request through [additional src application form](https://forms.gle/PNDn1d1sF7Y5ZY7z7)
 
