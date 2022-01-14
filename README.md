@@ -28,7 +28,7 @@ If you want to run testing, we will provide word2index.pickle, embedding_matrix.
 
 Please request through [additional src application form](https://forms.gle/PNDn1d1sF7Y5ZY7z7)
 
-We are also providing the dataset(*Incongruent News Headline Dataset*) for non-commercial research purposes only.
+We are also providing the dataset(*Incongruent News Headline Dataset*) and it's indexed_inputs for non-commercial research purposes only.
 
 Please request through [dataset application form](https://forms.gle/i7wKQCCEVYYQAJzv8)
 
