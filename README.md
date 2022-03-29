@@ -1,8 +1,8 @@
 # Detecting Incongruent Headlines News with Auxiliary Textual Information
 
-This is the tensorflow implementation of **Detecting Incongruent Headline News with Auxiliary Textual Information**.
+This is the tensorflow implementation of **[Detecting Incongruent Headlines News with Auxiliary Textual Information](https://www.sciencedirect.com/science/article/pii/S0957417422003141)**.
 
-Auxiliary textual information contains subtitle and image caption.
+Auxiliary textual information contains subtitle and image caption.\
 
 <p align="center">
   <img src="./model.png" />
